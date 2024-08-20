@@ -1,10 +1,12 @@
 A very basic english/german translator build on tkinter.
 
-this was made because I sometimes need to very quickly look up certain words or translate them into english/german. 
+This was made because I sometimes need to very quickly look up certain words or translate them into english/german. 
 
 Because this is supposed to work quick for me you don't use your mouse at all, everything works through shortcuts.
 
 **Note: This is supposed to run constantly in the background so it's not recommended to close it by closing the window. Instead use the shortcuts listed below to minimize the window**
+
+(it's also not going to win any beauty contests but it significantly enhances my work flow)
 
 ## Shortcuts  
   
